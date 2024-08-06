@@ -1,0 +1,26 @@
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Debug\whackamole.Form1.resources
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Debug\whackamole.Properties.Resources.resources
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Debug\whackamole.csproj.GenerateResource.Cache
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\bin\Debug\whackamole.exe
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\bin\Debug\whackamole.pdb
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Debug\whackamole.exe
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Debug\whackamole.pdb
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Debug\whackamole.Form2.resources
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Debug\whackamole.csprojResolveAssemblyReference.cache
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Debug\whackamole.Form3.resources
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Debug\whackamole.Form2.resources
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Debug\whackamole.Form1.resources
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Debug\whackamole.level.resources
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Debug\whackamole.lobby.resources
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Debug\whackamole.Properties.Resources.resources
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Debug\whackamole.csproj.GenerateResource.Cache
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Debug\whackamole.exe
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\bin\Debug\whackamole.exe
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\bin\Debug\whackamole.pdb
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Debug\whackamole.pdb
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Debug\whackamole.Form3.resources
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Debug\whackamole.level.resources
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Debug\whackamole.lobby.resources
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\bin\Debug\whackamole.exe.config
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Debug\whackamole.csproj.AssemblyReference.cache
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Debug\whackamole.csproj.CoreCompileInputs.cache

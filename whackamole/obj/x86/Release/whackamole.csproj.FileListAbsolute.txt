@@ -1,0 +1,24 @@
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Release\whackamole.Form1.resources
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Release\whackamole.Properties.Resources.resources
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Release\whackamole.csproj.GenerateResource.Cache
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\bin\Release\whackamole.exe
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\bin\Release\whackamole.pdb
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Release\whackamole.exe
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Release\whackamole.pdb
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Release\whackamole.csprojResolveAssemblyReference.cache
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Release\whackamole.lobby.resources
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Release\whackamole.level.resources
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Release\whackamole.Form2.resources
+D:\Pemrograman Sekolah\C#\whackamole\whackamole\obj\x86\Release\whackamole.Form3.resources
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Release\whackamole.exe
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Release\whackamole.pdb
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Release\whackamole.csprojResolveAssemblyReference.cache
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Release\whackamole.Form3.resources
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Release\whackamole.Form2.resources
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Release\whackamole.Form1.resources
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Release\whackamole.level.resources
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Release\whackamole.lobby.resources
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Release\whackamole.Properties.Resources.resources
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\obj\x86\Release\whackamole.csproj.GenerateResource.Cache
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\bin\Release\whackamole.exe
+C:\Users\UsEr\Documents\SMKN 1 BANTUL\whackamole\whackamole\bin\Release\whackamole.pdb
